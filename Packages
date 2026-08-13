@@ -1,0 +1,12 @@
+Package: com.WinsAviation.liquiglass
+Name: Liquid Glass
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tweak Liquid Glass do lập trình viên WinsAviation tạo ra
+Filename: Liqui Glass.deb
+Size: 1303246
+MD5sum: 15F7875018BC038DC551261372F89189
+SHA256: 1CBE43902C21474C7BCE87C548F107D314E01460B0D504D64A3C6E8D50AB4D10
+Section: Tweaks
+Author: BeBinCuTe2306
+Maintainer: BeBinCuTe2306
