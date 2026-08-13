@@ -1,0 +1,8 @@
+Origin: PurTemOS Repo
+Label: PurTemOS Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Repo chứa các tweak tinh chỉnh ios và fix lỗi ggg hộ hihihihihiihihi TikTok:bebin23062005
